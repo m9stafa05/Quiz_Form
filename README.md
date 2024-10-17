@@ -1,6 +1,9 @@
 # Quiz App
 The Quiz App is a web-based application that allows users to take interactive quizzes on various topics. It provides a fun and engaging way to test knowledge with multiple-choice questions, live scoring, and immediate feedback.
 
+<h1>Live Preview</h1>
+https://m9stafa05.github.io/Quiz_App/
+
 <h2>Features</h2>
 <ul>
   <li>Multiple Quiz Categories: Choose from a variety of quiz topics.</li>
